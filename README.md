@@ -36,7 +36,7 @@ I: Input    Welche Informationen bekommt die KI?
 M: Mission  Was ist das konkrete Ziel?
 ```
 
-→ [Vollständige AIM-Dokumentation](frameworks/AIM.md)
+→ [Vollständige AIM-Dokumentation](10_Framework/AIM.md)
 
 ---
 
@@ -52,7 +52,7 @@ F: Format       Wie soll die Ausgabe aussehen?
 T: Target       Für wen ist die Ausgabe bestimmt?
 ```
 
-→ [Vollständige CRAFT-Dokumentation](frameworks/CRAFT.md)
+→ [Vollständige CRAFT-Dokumentation](10_Framework/CRAFT.md)
 
 ---
 
@@ -70,7 +70,7 @@ Wer AIM und CRAFT bereits beherrscht, findet hier den nächsten Hebel. Diese sie
 | **6** | *„Spiele den Advocatus Diaboli: Warum könnte dieser Ansatz komplett falsch sein?"* | Stresstesting vor der Entscheidung |
 | **7** | *„Was wäre der unkonventionellste, aber potenziell effektivste Weg? Jenseits offensichtlicher Lösungen."* | Durchbricht konventionelle Denkmuster |
 
-→ [Ausführliche Dokumentation mit Beispielen und Varianten](templates/allgemein/profi-tipps.md)
+→ [Ausführliche Dokumentation mit Beispielen und Varianten](20_Templates/allgemein/profi-tipps.md)
 
 ---
 
@@ -83,7 +83,7 @@ Wer AIM und CRAFT bereits beherrscht, findet hier den nächsten Hebel. Diese sie
 | **3** | Fortgeschritten | Persona + Kontext + Referenzmaterial kombiniert |
 | **4** | Experte | Systematischer Einsatz von AIM oder CRAFT |
 
-→ [Level-System im Detail](frameworks/level-system.md)
+→ [Level-System im Detail](10_Framework/level-system.md)
 
 ---
 
@@ -93,13 +93,13 @@ Kuratierte Templates für Unternehmen, die eingebettete Systeme entwickeln und f
 
 | Bereich | Ausrichtung |
 |---------|-------------|
-| [Führung & Strategie](templates/fuehrung/) | Strategieentwicklung, Entscheidungsvorbereitung, Kommunikation in die Organisation |
-| [IT & Sicherheit](templates/it-sicherheit/) | Risikoanalysen, Sicherheitskonzepte, Dokumentation, Compliance |
-| [Embedded Software](templates/embedded-software/) | Anforderungsanalyse, Code-Review-Vorbereitung, Technologiebewertung, AUTOSAR/MISRA-Kontext |
-| [Elektronik & Mechanik](templates/elektronik-mechanik/) | Designreviews, Stücklistenanalyse, Fehlerbaumanalysen, Lieferantenbewertung |
-| [Produktion](templates/produktion/) | Prozessoptimierung, Qualitätssicherung, Störungsanalyse, Ramp-up-Vorbereitung |
-| [HR & Personal](templates/hr/) | Stellenprofile, Entwicklungsgespräche, Onboarding, Führungskommunikation |
-| [Marketing & Vertrieb](templates/marketing/) | Positionierung, Content, Kundenansprache, Messeauftritte |
+| [Führung & Strategie](20_Templates/fuehrung/) | Strategieentwicklung, Entscheidungsvorbereitung, Kommunikation in die Organisation |
+| [IT & Sicherheit](20_Templates/it-sicherheit/) | Risikoanalysen, Sicherheitskonzepte, Dokumentation, Compliance |
+| [Embedded Software](20_Templates/embedded-software/) | Anforderungsanalyse, Code-Review-Vorbereitung, Technologiebewertung, AUTOSAR/MISRA-Kontext |
+| [Elektronik & Mechanik](20_Templates/elektronik-mechanik/) | Designreviews, Stücklistenanalyse, Fehlerbaumanalysen, Lieferantenbewertung |
+| [Produktion](20_Templates/produktion/) | Prozessoptimierung, Qualitätssicherung, Störungsanalyse, Ramp-up-Vorbereitung |
+| [HR & Personal](20_Templates/hr/) | Stellenprofile, Entwicklungsgespräche, Onboarding, Führungskommunikation |
+| [Marketing & Vertrieb](20_Templates/marketing/) | Positionierung, Content, Kundenansprache, Messeauftritte |
 
 ---
 
@@ -107,7 +107,7 @@ Kuratierte Templates für Unternehmen, die eingebettete Systeme entwickeln und f
 
 Wer dieses Repository nutzt, hat ein klares Ziel: Level 4. Die Übungen setzen daher mit AIM und CRAFT als Werkzeug an, angewandt auf reale Szenarien aus technologiegetriebenen Unternehmen. Grundlagen werden nicht erklärt, sondern durch Anwendung erarbeitet.
 
-- [Übungen (Level 3-4)](uebungen/profi-uebungen.md) – Systematischer Einsatz von AIM und CRAFT anhand praxisnaher Aufgabenstellungen
+- [Übungen (Level 3-4)](30_Uebungen/profi-uebungen.md) – Systematischer Einsatz von AIM und CRAFT anhand praxisnaher Aufgabenstellungen
 
 ---
 
