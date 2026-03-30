@@ -20,7 +20,7 @@ Dieses Repository ist Ausdruck dieser Haltung: ein offenes Framework, das Führu
 
 Machine English ist die Fähigkeit, KI-Systeme präzise, effektiv und reproduzierbar anzuleiten. Die meisten Menschen nutzen KI wie eine Suchmaschine: mit kurzen, vagen Eingaben und entsprechend mittelmäßigen Ergebnissen. Machine English ist der Weg heraus.
 
-**Zur Entstehung:** Dieses Framework ist inspiriert von Konzepten und Diskussionen, die in der weltweiten KI-Community öffentlich geführt werden, von Anthropic, OpenAI, Google DeepMind und unabhängigen Forschern. PROMETO hat diese Ansätze aufgegriffen, strukturiert, auf den deutschsprachigen Business-Kontext übertragen und um eigene Methoden erweitert. CRAFT und AIM sind das Ergebnis dieser Arbeit.
+**Zur Entstehung:** Dieses Framework ist inspiriert von Konzepten und Diskussionen, die in der weltweiten KI-Community öffentlich geführt werden, von Anthropic, OpenAI, Google DeepMind und unabhängigen Forschern. PROMETO hat diese Ansätze aufgegriffen, strukturiert, auf den deutschsprachigen Business-Kontext übertragen und um eigene Methoden erweitert. CRAFT und AIM sind die Startpunkte dieser Arbeit.
 
 ---
 
