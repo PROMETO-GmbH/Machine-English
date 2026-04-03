@@ -107,9 +107,18 @@ Kuratierte Templates für Unternehmen, die eingebettete Systeme entwickeln und f
 
 ## Übungen
 
-Wer dieses Repository nutzt, hat ein klares Ziel: Level 4. Die Übungen setzen daher mit AIM und CRAFT als Werkzeug an, angewandt auf reale Szenarien aus technologiegetriebenen Unternehmen. Grundlagen werden nicht erklärt, sondern durch Anwendung erarbeitet.
+Lernen durch Anwenden. Die Übungen sind so aufgebaut, dass der Weg von der Theorie zur eigenen Praxis so kurz wie möglich ist.
 
-- [Übungen (Level 3-4)](30_Uebungen/profi-uebungen.md) – Systematischer Einsatz von AIM und CRAFT anhand praxisnaher Aufgabenstellungen
+**Empfohlener Einstieg:** Der interaktive [Selbstlernkurs](https://www.prometo.ai/kurse) (ca. 30 Min.) führt durch alle Grundlagen mit eingebetteten Quizfragen und Übungsaufgaben direkt im Browser. Er ist der schnellste Weg, AIM und CRAFT erstmals anzuwenden, bevor die Übungen unten vertiefen.
+
+**Übungsverzeichnis:** [30_Uebungen/](30_Uebungen/)
+
+| Datei | Zielgruppe | Inhalt |
+|-------|-----------|--------|
+| [Starter-Übungen](30_Uebungen/starter-uebungen.md) | Einsteiger (Level 1–2) | Grundtechniken: Details hinzufügen, Struktur, Persona, schrittweise Anleitung |
+| [Profi-Übungen](30_Uebungen/profi-uebungen.md) | Anwender (Level 3–4) | Rollenspezifische CRAFT- und AIM-Aufgaben für Führung, Technik, Produktion und HR |
+
+Die Profi-Übungen sind nach Unternehmensrolle gegliedert: Wer im Bereich Entwicklung arbeitet, findet dort direkt technische Szenarien, wer Führungsverantwortung hat, findet strategische Aufgabenstellungen. Eigene Branche und eigenes Szenario sind dabei ausdrücklich erwünscht: Die Vorlagen sind Ausgangspunkte, keine Pflichtaufgaben.
 
 ---
 
