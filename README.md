@@ -76,6 +76,8 @@ Wer AIM und CRAFT bereits beherrscht, findet hier den nächsten Hebel. Diese sie
 
 ## Das Level-System
 
+Machine English ist wie jede Sprache: Man beginnt mit einfachen Sätzen und entwickelt mit der Zeit ein Gespür für Nuancen, Struktur und Wirkung. Der Unterschied zu natürlichen Sprachen ist, dass der Einstieg auf Expertenniveau hier nicht Jahre dauert. Wer AIM oder CRAFT konsequent anwendet, arbeitet ab dem ersten Prompt auf Level 4. Die Flüssigkeit, die echte Meisterschaft ausmacht, kommt durch Wiederholung und Reflexion.
+
 | Level | Bezeichnung | Beschreibung |
 |-------|------------|--------------|
 | **1** | Einsteiger | Allgemeine, unspezifische Anfragen ohne Kontext |
@@ -83,7 +85,7 @@ Wer AIM und CRAFT bereits beherrscht, findet hier den nächsten Hebel. Diese sie
 | **3** | Fortgeschritten | Persona + Kontext + Referenzmaterial kombiniert |
 | **4** | Experte | Systematischer Einsatz von AIM oder CRAFT |
 
-→ [Level-System im Detail](10_Framework/level-system.md)
+Dieses Repository setzt direkt bei Level 4 an. Die Methoden, Templates und Übungen sind darauf ausgelegt, den Weg dorthin so kurz wie möglich zu halten.
 
 ---
 
