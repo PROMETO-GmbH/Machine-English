@@ -127,7 +127,7 @@ Die Profi-Übungen sind nach Unternehmensrolle gegliedert: Wer im Bereich Entwic
 Dieses Repository ist die offene Wissensbasis. Für strukturiertes Lernen mit direktem Praxisbezug:
 
 - 🎓 **[Selbstlernkurs](https://www.prometo.ai/prompt-improvement/)** – 30-minütiger Einstieg, inkl. Quizzes und Übungen
-- 🏢 **[KI-Strategie für Ihre Engineering-Organisation: Wie verändert KI Ihre Entwicklungs- & Produktionsorganisation?](https://www.prometo.ai/weiterbildung/#Effektive-weiterbildung-fr-messbare-resultate)** – Unsere Seminare für Engineering-Führungskräfte geben Orientierung – von strategischen Auswirkungen bis zu konkreten Anwendungsfeldern in der Industrie.
+- 🏢KI-Strategie für Ihre Engineering-Organisation: Wie verändert KI Ihre Entwicklungs- & Produktionsorganisation? **[Unsere Seminare für Engineering-Führungskräfte geben Orientierung](https://www.prometo.ai/weiterbildung/#Effektive-weiterbildung-fr-messbare-resultate)** – von strategischen Auswirkungen bis zu konkreten Anwendungsfeldern in der Industrie.
 - 🤖 **[Crashkurs KI | offenes Seminar](https://www.prometo.ai/weiterbildung/crashkurs-kunstliche-intelligenz/)** – Von der KI-Strategie bis zur produktiven Umsetzung, konkrete Anwendungsfelder und Praxisbeispiele für die Industrie, inkl. 12-Monats-Einführungs-Plan 
 
 
