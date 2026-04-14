@@ -105,9 +105,11 @@ Mehr als 2 ❌: Überarbeite den Prompt und probiere es erneut. Ein guter Prompt
 
 ---
 
-→ Bereit für mehr? [Profi-Übungen nach Unternehmensrolle (Level 3–4)](profi-uebungen.md)
+→ Du willst erst mal einschätzen wo Du mit Deinen Prompt-Kenntnissen stehst? [PROMETO Selbstlernkurs](https://www.prometo.ai/prompt-improvement/)
 
-Wer Live-Feedback auf eigene Prompts und eine Zertifizierung möchte: [PROMETO Training & Workshops](https://www.prometo.ai/trainings)
+KI-Strategie für Ihre Engineering-Organisation: Wie verändert KI Ihre Entwicklungs- & Produktionsorganisation? 
+
+[Unsere Seminare für Engineering-Führungskräfte geben Orientierung](https://www.prometo.ai/weiterbildung/#Effektive-weiterbildung-fr-messbare-resultate) - von strategischen Auswirkungen bis zu konkreten Anwendungsfeldern in der Industrie.
 
 ---
 
