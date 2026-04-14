@@ -295,11 +295,8 @@ MISSION:
 
 ## Du willst mehr?
 
-Die Übungen hier sind der Einstieg. Im PROMETO-Training gehst du mit eigenen Use Cases aus deinem Unternehmen in die Tiefe: Live-Feedback auf deine Prompts, Peer-Austausch mit Teilnehmenden aus derselben Branche und eine Zertifizierung, die dein Niveau dokumentiert.
-
-- 🎓 **[Selbstlernkurs](https://www.prometo.ai/kurse)** – 30 Minuten, interaktiv, mit Quizzes und Übungen direkt im Browser
-- 🧑‍🏫 **[Präsenztraining & Workshops](https://www.prometo.ai/trainings)** – eigene Use Cases, Live-Feedback, Zertifizierung
-- 🏢 **[Unternehmenstraining](https://www.prometo.ai/firmentraining)** – maßgeschneidert für Teams, mit branchenspezifischen Szenarien aus Automotive, Industrieautomatisierung und Maschinenbau
+- 🎓 Du willst erst mal einschätzen wo Du mit Deinen Prompt-Kenntnissen stehst? **[Selbstlernkurs](https://www.prometo.ai/prompt-improvement/)** – 30 Minuten, interaktiv, mit Quizzes und Übungen direkt im Browser
+- 🏢KI-Strategie für Ihre Engineering-Organisation: Wie verändert KI Ihre Entwicklungs- & Produktionsorganisation? **[Unsere Seminare für Engineering-Führungskräfte geben Orientierung](https://www.prometo.ai/weiterbildung/#Effektive-weiterbildung-fr-messbare-resultate)** – von strategischen Auswirkungen bis zu konkreten Anwendungsfeldern in der Industrie.
 
 ---
 
